@@ -32,7 +32,11 @@ staged (англ. «подготовленный»)
 ```mermaid
 graph LR;
   untracked -- "git add" --> staged;
+<<<<<<< HEAD
 ```
+=======
+
+>>>>>>> 0c171e1e1eed9aabe42ec6ae05ffeb97ee5adac2
 
 ##Инициализация репозитория
 
